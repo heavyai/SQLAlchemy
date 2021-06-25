@@ -1,0 +1,2 @@
+# SQLAlchemy
+OmniSci SQLAlchemy Driver
